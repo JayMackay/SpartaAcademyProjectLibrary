@@ -1,0 +1,16 @@
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.deps.json
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Users\TECH-W141birm\Desktop\Console Application\CalculatorApplication\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.deps.json
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\bin\Debug\netcoreapp3.1\CalculatorLib.pdb
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.dll
+C:\Users\TECH-W141birm\Desktop\C# Code Applications\Calculator Application With Unit Tests\CalculatorLib\CalculatorLib\obj\Debug\netcoreapp3.1\CalculatorLib.pdb
