@@ -1,0 +1,8 @@
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\bin\Debug\netcoreapp3.1\BasicExercisesOne.deps.json
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\bin\Debug\netcoreapp3.1\BasicExercisesOne.dll
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\bin\Debug\netcoreapp3.1\BasicExercisesOne.pdb
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\obj\Debug\netcoreapp3.1\BasicExercisesOne.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\obj\Debug\netcoreapp3.1\BasicExercisesOne.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\obj\Debug\netcoreapp3.1\BasicExercisesOne.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\obj\Debug\netcoreapp3.1\BasicExercisesOne.dll
+C:\Users\TECH-W141birm\Desktop\ExercisesBasicsOne\BasicExercisesOne\BasicExercisesOne\obj\Debug\netcoreapp3.1\BasicExercisesOne.pdb
